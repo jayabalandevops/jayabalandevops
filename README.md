@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jayabalan
 - 👀 I’m interested in Engineering AI Robotics systems.
-- 🌱 I’m currently learning Post Graduation
+- 🌱 I’m currently preparing fot the Post Graduation.
 - 💞️ I’m looking to collaborate in this field.
 - 📫 How to reach me ...
 
